@@ -3,4 +3,8 @@ ggg
 change file on first branch
 change fiel on second branch
 
-��֧ issue-100 �޸��ļ�;
+
+分支 issue-100 修复文件;
+
+分支二 change file
+
